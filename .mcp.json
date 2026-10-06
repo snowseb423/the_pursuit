@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "the-pursuit-elementor": {
+      "type": "http",
+      "url": "https://thepursuit.sebdesign-test.com/wp-json/elementor/mcp/",
+      "headers": {
+        "Authorization": "Basic ${PURSUIT_WP_AUTH}"
+      }
+    }
+  }
+}
